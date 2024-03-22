@@ -1,4 +1,7 @@
 # Sentiment_Analysis_Using_ML_Model
+
+![maxresdefault](https://github.com/RaviMB962/Sentiment_Analysis_Using_ML_Model/assets/95517431/9b91bdb4-4d1e-41c7-b849-cc71edd43905)
+
 Trained ML (Logistic Regression Model) on tweets to know whether tweet sentiment is positive or negetive
 
 Used Data set from kaggale: https://www.kaggle.com/datasets/kazanova/sentiment140
